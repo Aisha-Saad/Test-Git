@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: sans-serif;
+
+}
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 99;
+  background-color: rgb(19, 52, 71);
+
+}
+
+nav{
+  font-size: 20px;
+  text-align: center;
+  padding: 1.5rem;
+  
+}
+
+nav a{
+  padding: 1rem;
+  color: #fff;
+  
+}
+.logo{
+  color: #fff;
+  font-size: 20px;
+  padding-left: 15px;
+}
